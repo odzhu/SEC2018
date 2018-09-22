@@ -1,5 +1,8 @@
 # SEC2018 talk references:
 
+[My Twitter](https://twitter.com/odzhu)
+
+
 * [CNCF](https://www.cncf.io)
 * [CRD](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 * [Operators](https://coreos.com/operators/)
